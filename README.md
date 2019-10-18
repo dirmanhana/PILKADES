@@ -49,9 +49,9 @@ Menjalankan Aplikasi PILKADES dari HP SmartPhone
 1. Buka Browser ketikan ip_server/pilkades (IP server laptop/PC yg terinstall XAMPP Apache)
 2. Klu langkah2 diatas benar, maka akan muncul halaman login
 
-Download dan Install Composer https://getcomposer.org/
-buka cmd, c:\xampp\htdocs\pilkades
-ketik composer update
+Download dan Install Composer "https://getcomposer.org/"
+buka cmd, "c:\xampp\htdocs\pilkades" folder aplikasi
+ketik "composer update"
 
 Login
 
